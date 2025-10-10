@@ -81,3 +81,13 @@ git commit -m "updated project readme"
 ### Local vs. Remote Branches
 ``` bash
 git push  -u origin main
+git checkout ft/branch
+git push -u origin ft/branch
+git checkout  ft/new-feature
+git push -u origin/new-feature
+``` 
+### Branch Deletion
+``` bash
+git branch -D ft/new-feature
+```
+### Creating a Branch from a Commit
