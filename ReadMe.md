@@ -77,3 +77,7 @@ git checkout main
 echo "This is the main branch readme file. It introduces the project." > readme.txt
 git add readme.txt
 git commit -m "updated project readme"
+```
+### Local vs. Remote Branches
+``` bash
+git push  -u origin main
