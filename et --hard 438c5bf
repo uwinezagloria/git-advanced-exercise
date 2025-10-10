@@ -1,0 +1,56 @@
+git add .
+git commit -m "your message"[33m7ae1d73[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to 7ae1d73fc0840537282a59fcd869bdc66d409f45
+[33m7ae1d73[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{1}: rebase (finish): returning to refs/heads/main
+[33m7ae1d73[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{2}: rebase: fast-forward
+[33mc79d628[m HEAD@{3}: rebase (start): checkout HEAD~3
+[33m438c5bf[m HEAD@{4}: rebase (abort): returning to refs/heads/main
+[33mc79d628[m HEAD@{5}: rebase (start): checkout HEAD~3
+[33m438c5bf[m HEAD@{6}: rebase (finish): returning to refs/heads/main
+[33m438c5bf[m HEAD@{7}: rebase (start): checkout HEAD~3
+[33m438c5bf[m HEAD@{8}: rebase (finish): returning to refs/heads/main
+[33m438c5bf[m HEAD@{9}: rebase (start): checkout HEAD~2
+[33m8e1c66b[m HEAD@{10}: commit: chore:Unwanted Commit
+[33m438c5bf[m HEAD@{11}: rebase (finish): returning to refs/heads/main
+[33m438c5bf[m HEAD@{12}: rebase (squash): chore: Create third file and fourth file
+[33m8e4a018[m HEAD@{13}: rebase (start): checkout HEAD~2
+[33m367364b[m HEAD@{14}: rebase (finish): returning to refs/heads/main
+[33m367364b[m HEAD@{15}: rebase (start): checkout HEAD~1
+[33m367364b[m HEAD@{16}: commit: chore: Create fourth file
+[33m8e4a018[m HEAD@{17}: commit: chore: Create third file
+[33m7ecceef[m HEAD@{18}: reset: moving to HEAD~1
+[33mde5b36e[m HEAD@{19}: rebase (finish): returning to refs/heads/main
+[33mde5b36e[m HEAD@{20}: rebase (pick): chore: Create third and fourth files
+[33m7ecceef[m HEAD@{21}: rebase (squash): chore: Create initial file
+[33m5fd2c7d[m HEAD@{22}: rebase (start): checkout HEAD~3
+[33m4be2a7d[m HEAD@{23}: rebase (finish): returning to refs/heads/main
+[33m4be2a7d[m HEAD@{24}: rebase (start): checkout HEAD~2
+[33m4be2a7d[m HEAD@{25}: rebase (abort): returning to refs/heads/main
+[33m4be2a7d[m HEAD@{26}: rebase (abort): returning to refs/heads/main
+[33m4be2a7d[m HEAD@{27}: checkout: moving from fe080e1bc74a4a9edbc14a7da4b7b163256507f9 to main
+[33mfe080e1[m HEAD@{28}: rebase (squash): # This is a combination of 2 commits.
+[33m5fd2c7d[m HEAD@{29}: rebase (start): checkout HEAD~3
+[33m4be2a7d[m HEAD@{30}: rebase (finish): returning to refs/heads/main
+[33m4be2a7d[m HEAD@{31}: rebase (start): checkout HEAD~2
+[33m4be2a7d[m HEAD@{32}: commit (amend): chore: Create third and fourth files
+[33m7882321[m HEAD@{33}: commit (amend): chore: Create fourth files
+[33m5818ea6[m HEAD@{34}: commit: chore: Create third and fourth files
+[33m209f903[m HEAD@{35}: commit: chore: Create another file
+[33m5fd2c7d[m HEAD@{36}: commit: chore: Create initial file
+[33m7ae1d73[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{37}: commit: chore: Create initial files
+[33mc79d628[m HEAD@{38}: reset: moving to c79d628
+[33m9975ae6[m HEAD@{39}: rebase (abort): returning to refs/heads/main
+[33mc79d628[m HEAD@{40}: rebase (start): checkout c79d628
+[33m9975ae6[m HEAD@{41}: rebase (abort): returning to refs/heads/main
+[33mc79d628[m HEAD@{42}: rebase (start): checkout c79d628
+[33m9975ae6[m HEAD@{43}: rebase (finish): returning to refs/heads/main
+[33m9975ae6[m HEAD@{44}: rebase (squash): chore: Create initial file
+[33m83c8685[m HEAD@{45}: rebase (start): checkout HEAD~2
+[33maa25ade[m HEAD@{46}: rebase (finish): returning to refs/heads/main
+[33maa25ade[m HEAD@{47}: rebase (pick): chore: Create third and fourth files
+[33m83c8685[m HEAD@{48}: rebase (reword): chore: Create Second file
+[33m4c80af3[m HEAD@{49}: rebase: fast-forward
+[33mc79d628[m HEAD@{50}: rebase (start): checkout HEAD~2
+[33m0834772[m HEAD@{51}: commit (amend): chore: Create third and fourth files
+[33m4d3473c[m HEAD@{52}: commit: chore: Create third and fourth files
+[33m4c80af3[m HEAD@{53}: commit: chore: Create another file
+[33mc79d628[m HEAD@{54}: commit (initial): chore: Create initial file
